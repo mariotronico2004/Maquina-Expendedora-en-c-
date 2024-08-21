@@ -90,8 +90,8 @@ class Program
         }
     }
 }
-https://github.com/mariotronico2004/Maquina-Expendedora-en-c-/issues/1#issue-2478666370
+
 ```
 
-                                                                                             ![image](https://github.com/user-attachments/assets/a33ab0c3-4572-4f8d-88a3-ba0ab1f113ca)
+                                                                                            [ ![image](https://github.com/user-attachments/assets/a33ab0c3-4572-4f8d-88a3-ba0ab1f113ca)](https://github.com/mariotronico2004/Maquina-Expendedora-en-c-/issues/1#issue-2478666370)
 
